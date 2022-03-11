@@ -36,7 +36,7 @@
 function showConfirm() {
   var riddleQ = (prompt("What five-letter word becomes shorter when you add two letters to it?",
   ));
-  if (riddleQ = 'Short') {
+  if (riddleQ =='Short') {
     alert("correct answer!");
   } else {
     alert("wrong answer");
@@ -47,10 +47,10 @@ function showConfirm() {
 
   prompt(" A word I know, six letters it contains, remove one letter and 12 remains. What is it?"
   );
-  if (riddleQ = 'Dozens'){
+  if (riddleQ == 'Dozens'){
     alert("correct answer!");
   } else {
-    alert("wrong answer");
+    alert("Wrong answer");
     // to limit user for limited count
     if (--max_count > 0)
       showConfirm()
@@ -58,7 +58,7 @@ function showConfirm() {
 
     (prompt("People make me, save me, change me, raise me. What am I?",
   ));
-  if (riddleQ = 'Money') {
+  if (riddleQ == 'Money') {
     alert("You WON!");
   } else {
     alert("wrong answer");
