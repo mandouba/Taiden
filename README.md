@@ -40,6 +40,9 @@ Screenshots
 <img class="taiden2" src="https://i.imgur.com/yUuNo29.png">
 <img class="taiden3" src="https://i.imgur.com/DzzzqA3.png">  
 
-
-
-
+Future enhancements
+-----------------------------------------------------------------------------------------------------
+Add a better intro page with a little more inviting design.
+Add a better background so a playe loses you will have a more interactive and enjoyable backgoround 
+Add more riddles and shuffle them so theyre always random and not in specific order.
+Lastly i would add a score that will display how many riddles you answered in a row. 
